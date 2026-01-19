@@ -71,7 +71,7 @@ Dᴇᴠᴇʟᴏᴘᴇʀ:
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ShobanaFilterBot
+these are my extra features
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
